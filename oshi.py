@@ -7,8 +7,8 @@
     --testplan   -- Path to test plan xml file
                    Example: /home/<user name>/nst/testplan/testplan.xml
 - For further questions, please contact nst tool team:
-    --  xxx@nokia.com
-    -- xxxx@nokia.com
+    --  xxx@example.com
+    -- xxxx@example.com
 '''
 
 # Import built-in modules
